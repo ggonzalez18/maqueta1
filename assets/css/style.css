@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+header {
+    padding: 0px 25px;
+}
+
+.nav-current {
+    background: rgb(119, 119, 119);
+    color: #fff !important;
+    border-radius: 5px;
+}
+
+.bg-section-white {
+    background-color: white;
+}
+
+.bg-page {
+    background-color: rgb(211, 211, 211);
+}
