@@ -21,3 +21,13 @@ header {
 .bg-page {
     background-color: rgb(211, 211, 211);
 }
+
+.rrss-icon {
+    color: rgb(75, 75, 75);
+    margin: 10px;
+}
+
+.rrss-icon:hover {
+    color: rgb(17, 17, 17);
+    margin: 10px;
+}
